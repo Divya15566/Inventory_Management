@@ -1,9 +1,7 @@
 # Inventory_Management
 This web application empowers you to streamline your inventory control processes. Built with PHP as the server-side language, MySQL as the database, and a user-friendly front-end (HTML, CSS, and JavaScript), it provides a robust solution for managing product information, including adding, updating, deleting, and user functionalities.
 
-
 Key Features:
-
 
 ->Seamless Inventory Management: Effortlessly create, edit, and delete product information within the application.
 
@@ -15,10 +13,7 @@ Key Features:
 
 ->Robust Database Management: Leverage the power of MySQL to store and retrieve product data efficiently.
 
-
-
 Technology Stack:
-
 
 1.PHP
 
@@ -29,3 +24,5 @@ Technology Stack:
 4.CSS
 
 5.JavaScript
+
+6.Xampp
