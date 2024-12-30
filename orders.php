@@ -498,10 +498,16 @@ if($_GET['o'] == 'add') {
 				      	<option value="">~~SELECT~~</option>
 				      	<option value="1" <?php if($data[13] == 1) {
 				      		echo "selected";
-				      	} ?>  >In Gujarat</option>
+				      	} ?>  >Bengaluru</option>
 				      	<option value="2" <?php if($data[13] == 2) {
 				      		echo "selected";
-				      	} ?> >Out Gujarat</option>
+				      	} ?> >Andhra Pradesh</option>
+				        <option value="3" <?php if($data[13] == 3) {
+				      		echo "selected";
+				      	} ?> >Chennai</option>
+					 <option value="4" <?php if($data[13] == 4) {
+				      		echo "selected";
+				      	} ?> >Mumbai</option>
 				      </select>
 				    </div>
 				  </div>							  
