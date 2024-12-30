@@ -224,8 +224,10 @@ if($_GET['o'] == 'add') {
 				    <div class="col-sm-9">
 				      <select class="form-control" name="paymentPlace" id="paymentPlace">
 				      	<option value="">~~SELECT~~</option>
-				      	<option value="1">In Gujarat</option>
-				      	<option value="2">Out Of Gujarat</option>
+				      	<option value="1">Bengaluru</option>
+				      	<option value="2">Andhra Pradesh</option>
+					<option value="3">Chennai</option>
+					<option value="4">Mumbai</option>
 				      </select>
 				    </div>
 				  </div> <!--/form-group-->							  
